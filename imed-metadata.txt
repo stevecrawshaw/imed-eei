@@ -1,0 +1,161 @@
+Domain: Overall Score Decile for IMED - Population Weighted by 100m
+Domain_IMED_Score_Decile_PopWeighted_100m
+Decile 1 (Highest Environmental Pressure by Population)
+Decile 2
+Decile 3
+Decile 4
+Decile 5
+Decile 6
+Decile 7
+Decile 8
+Decile 9
+10 Decile 10 (Lowest Environmental Pressure by Population)
+Domain: Overall Score Decile for IMED - Population Weighted by LSOA
+Domain_IMED_Score_Decile_PopWeighted_LSOA
+Decile 1 (Highest Environmental Pressure by Population)
+Decile 2
+Decile 3
+Decile 4
+Decile 5
+Decile 6
+Decile 7
+Decile 8
+Decile 9
+Decile 10 (Lowest Environmental Pressure by Population)
+Domain: Overall Score Deciled for IMED
+Domain_IMED_Decile
+0 - 1 (Highest Presure)
+2
+3
+4
+5
+6
+7
+8
+9
+10 (Lowest Pressure)
+Domain: Overall Score for IMED
+Domain_IMED_Score
+0 - 1 Lowest Environmental Pressure
+2
+3
+4
+5
+6
+7
+8
+9
+10 Highest Environmental Pressure
+Sub-Domain: IMED Pollution Burden
+SubDomain_IMED_Pollution
+0 - 1 Less Pollution
+2
+3
+4
+5
+6
+7
+8
+9
+10 Greater Pollution
+Sub-Domain: IMED Nature Deficit Burden
+SubDomain_IMED_Nature
+0 - 1 Less Nature Deficit Burden
+2
+3
+4
+5
+6
+7
+8
+9
+10 Greater Nature Deficit Burden
+Sub-Domain: IMED Climate Risk Burden
+SubDomain_IMED_Climate
+0 - 1 Less Climate Burden
+2
+3
+4
+5
+6
+7
+8
+9
+10 Greater Climate burden
+Indicator: Nature - Lack of Access to Greenspace
+Indicator_Nature_AccessToGreenspace
+0 - 1 Greater Access to Greenspace
+2
+3
+4
+5
+6
+7
+8
+9
+10 Less Access to Greenspace
+Indicator: Nature - Quality Habitat Deficit
+Indicator_Nature_QualityHabitatDeficit
+0 = Presence of Quality Habitat
+10 = Lack oF Quality Habitat
+Indicator: Climate-Projected Increase in Summer Days >28°C (2030s vs 1980s)
+Indicator_Climate_ProjectedHeat
+0 - 1 Less Chance of Number of Days >28C
+2
+3
+4
+5
+6
+7
+8
+9
+10 Greater Chance of Number of Days >28C
+Indicator: Climate-Flood Risk from Surface Water
+Indicator_Climate_FRSW
+0 Low Flood Risk
+2.5
+5
+7.5
+10 High Flood Risk
+Indicator: Climate-Flood Risk from Rivers & Seas
+Indicator_Climate_FRRS
+0 Low Flood Risk
+5
+7.5
+10 High Flood Risk
+Indicator: Pollution-Noise
+Indicator_Poll_Noise
+0 - 1 Least Pollution
+1 - 2
+2 - 3
+3 - 4
+4 - 5
+5 - 6
+6 - 7
+7 - 8
+8 - 9
+9 - 10 Greatest Pollution
+Indicator: Pollution-Nitrogen Dioxide (NO₂) for 2021-2023
+Indicator_Poll_NO2_2021_2023
+0 - 1 Least Pollution
+1 - 2
+2 - 3
+3 - 4
+4 - 5
+5 - 6
+6 - 7
+7 - 8
+8 - 9
+9 - 10 Greatest Pollution
+Indicator: Pollution-Particulate Matter 2.5µg (PM2.5) for 2021-2023
+Indicator_Poll_PM25_2021_2023
+0 - 1 Least Pollution
+1 - 2
+2 - 3
+3 - 4
+4 - 5
+5 - 6
+6 - 7
+7 - 8
+8 - 9
+9 - 10 Greatest Pollution

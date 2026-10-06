@@ -1,0 +1,210 @@
+Domain: Overall Score Deciled for EEI - Built-up Area ONLY
+Domain_EEI_Decile
+Decile 1 (Highest Presure)
+Decile 2
+Decile 3
+Decile 4
+Decile 5
+Decile 6
+Decile 7
+Decile 8
+Decile 9
+Decile 10 (Lowest Pressure)
+Domain: Overall Score for EEI - Built-up Area ONLY
+Domain_EEI_Score
+0 - 1 Lowest Pressure
+1 - 2
+2 - 3
+3 - 4
+4 - 5
+5 - 6
+6 - 7
+7 - 8
+8 - 9
+9 - 10 Highest Pressure
+Sub-Domain: EEI Pollution Burden - Built-up Area ONLY
+SubDomain_EEI_Pollution
+0 - 1 Less Pollution Burden
+1 - 2
+2 - 3
+3 - 4
+4 - 5
+5 - 6
+6 - 7
+7 - 8
+8 - 9
+9 - 10 Greater Pollution Burden
+Sub-Domain: EEI Nature Deficit Burden - Built-up Area ONLY
+SubDomain_EEI_Nature
+0 - 1 Less Nature Burden
+1 - 2
+2 - 3
+3 - 4
+4 - 5
+5 - 6
+6 - 7
+7 - 8
+8 - 9
+9 - 10 Greater Nature Deficit Burden
+Sub-Domain: EEI Health and Social (H&S) Vulnerability Burden - Built-up Area ONLY
+SubDomain_EEI_HS
+0 - 1 Less H&S Burden
+1 - 2
+2 - 3
+3 - 4
+4 - 5
+5 - 6
+6 - 7
+7 - 8
+8 - 9
+9 - 10 Greater H&S Burden
+Sub-Domain: EEI Climate Risk Burden - Built-up Area ONLY
+SubDomain_EEI_Climate
+0 - 1 Less Climate Risk Burden
+1 - 2
+2 - 3
+3 - 4
+4 - 5
+5 - 6
+6 - 7
+7 - 8
+8 - 9
+9 - 10 Greater Climate Risk Burden
+Sub-Domain: EEI Built Environment - Built-up Area ONLY
+Sub-Domain_EEI_BE
+0 - 1 Less Built Environmental Burden
+1 - 2
+2 - 3
+3 - 4
+4 - 5
+5 - 6
+6 - 7
+7 - 8
+8 - 9
+9 - 10 Greater Built Environmental Burden
+Indicator: EEI Pollution-Particulate Matter 2.5µg (PM2.5) for 2021-2023 - Built-up Area ONLY
+Indicator_EEI_Poll_PM25_2021_2023
+1 Least Pollution
+2
+3
+4
+5
+6
+7
+8
+9
+10 Greatest Pollution
+Indicator: EEI Pollution-Noise - Built-up Area ONLY
+Indicator_EEI_Poll_Noise
+1 Least Pollution
+2
+3
+4
+5
+6
+7
+8
+9
+10 Greatest Pollution
+Indicator: EEI Pollution-Nitrogen Dioxide (NO₂) for 2021-2023 - Built-up Area ONLY
+Indicator_EEI_Poll_NO2_2021_2023
+1 Least Pollution
+2
+3
+4
+5
+6
+7
+8
+9
+10 Greatest Pollution
+Indicator: EEI Nature - Quality Habitat Deficit - Built-up Area ONLY
+Indicator_EEI_Nature_QualityHabitatDeficit
+0 Presence of Quality Habitat
+10.0 Lack of Quality Habitat
+Indicator: EEI Nature - Lack of Access to Greenspace - Built-up Area ONLY
+Indicator_EEI_Nature_AccessToGreenspace
+1 Greater Access to Greenspace
+2
+3
+4
+5
+6
+7
+8
+9
+10 Greater Access to Greenspace
+Indicator: EEI Climate-Projected Increase in Summer Days >28°C (2030s vs 1980s) - Built-up Area ONLY
+Indicator_EEI_Climate_ProjectedHeat
+1 Less Chance of Number of Days >28C
+2
+3
+4
+5
+6
+7
+8
+9
+10 Greater Chance of Number of Days >28C
+Indicator: EEI Climate-Flood Risk from Surface Water - Built-up Area ONLY
+Indicator_EEI_Climate_FRSW
+0 Low Flood Risk
+2.5
+5
+7.5
+10.0 High Flood Risk
+Indicator: EEI Climate-Flood Risk from Rivers & Seas - Built-up Area ONLY
+Indicator_EEI_Climate_FRRS
+0 Low Flood Risk
+2.5
+5
+7.5
+10.0 High Flood Risk
+Indicator: Health and Social - Indices of Multiple Deprivation - Built-up Area ONLY
+Indicator_HS_IMD
+0 - 1 Low Deprivation
+1 - 2
+2 - 3
+3 - 4
+4 - 5
+5 - 6
+6 - 7
+7 - 8
+8 - 9
+9 - 10 High Deprivation
+Indicator: Health and Social - Years Life Lost for 2017-2019 - Built-up Area ONLY
+Indicator_HS_Years_Life_Lost_2017_2019
+0 - 1 Lower Chance of Premature Death
+1 - 2
+2 - 3
+3 - 4
+4 - 5
+5 - 6
+6 - 7
+7 - 8
+8 - 9
+9 - 10 Greater Chance of Premature Death
+Indicator: Built Environment - Lack of Trees - Built-up Area ONLY
+Indicator_Nature_LackofTrees
+0 - 1 Greater Tree Cover
+1 - 2
+2 - 3
+3 - 4
+4 - 5
+5 - 6
+6 - 7
+7 - 8
+8 - 9
+9 - 10 Lack of Tree Cover
+Indicator: Built Environment - Urban Heat Island - Built-up Area ONLY
+Indicator_Climate_UHI
+0 - 1 Neutral/No Increase in UHI Temperatures
+1 - 2
+2 - 3
+3 - 4
+4 - 5
+5 - 6
+6 - 7
+7 - 8
+8 - 9
+9 - 10 Increased UHI Temperatures
